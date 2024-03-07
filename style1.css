@@ -102,20 +102,20 @@ body {
 }
 
 /* Progress tracker styling */
-.progress {
+.progress-tracker {
      display: flex;
      justify-content: center;
      align-items: center;
      overflow: hidden;
   }
 
-  .progress p {
+  .progress-tracker p {
     margin-right: 110px;
     font-size: 22px;
     color: #717184;
   }
 
-  .progress img {
+  .progress-tracker img {
     margin-right: 195px;
     width: 50px;
     height: 50px;
@@ -145,7 +145,7 @@ body {
         overflow: auto;
     }
 
-    .logo {
+    .navImg {
         height: 22vh;
         width: 98%;
         position: relative;
@@ -168,11 +168,11 @@ body {
         height: auto; 
     }
 
-    .body-image img {
+    .dietImg img {
         width: auto;
     }
 
-    .greeting {
+    .diet-tracker {
         width: auto;
         margin-top: auto;
         font-size: 18px;
@@ -205,12 +205,12 @@ body {
         padding-left: 15px; 
     }
 
-    .progress p {
+    .progress-tracker p {
         margin-right: 60px;
         font-size: 16px;
     }
 
-    .progress img {
+    .progress-tracker img {
         border-radius: 1000px;
         margin-top: 40px;
         margin-right: 120px;

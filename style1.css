@@ -4,11 +4,7 @@ body {
     background-color: #F4F5FA;
 }
 
-.header {
-    width: 100%;
-    margin: auto;
-}
-
+/* Navigation bar styling */
 .navbar {
     background-color: #F4F5FA;
     text-align: center;
@@ -16,7 +12,8 @@ body {
     overflow: auto;
 }
 
-.logo {
+/* Navigation image & icon styling */
+.navImg {
     width: 100%;
     height: 25vh;
     position: relative;
@@ -39,20 +36,22 @@ body {
     height: 9%; 
 }
 
-.body-image {
+/* Diet image styling */
+.dietImg {
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
   }
   
-.body-image img {
+.dietImg img {
     object-fit: cover;
     width: 55%;
     height: auto;
 }
 
-.greeting {
+/* Diet tracker styling */
+.diet-tracker {
     display: flex;
     margin-top: 80px;
     font-size: 30px;
@@ -67,7 +66,8 @@ body {
     color: #6CC57C;
     font-weight: 800;
 }
-  
+
+/* Container section */
 .container {
     display: flex;
     align-items: center;
@@ -81,6 +81,7 @@ body {
     width: 100%;
 }
 
+/* Individual question styling */
 .question {
     margin-left: 60px;
     font-size: 20px;
@@ -100,6 +101,7 @@ body {
     padding-left: 35px; 
 }
 
+/* Progress tracker styling */
 .progress {
      display: flex;
      justify-content: center;
@@ -130,6 +132,7 @@ body {
     font-size: 22px;
 }
 
+/* Media query for only mobile screen (max-width: 599px) */
 @media (max-width: 599px) {
     body {
         margin: 0;

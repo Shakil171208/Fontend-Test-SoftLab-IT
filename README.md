@@ -20,3 +20,5 @@ This is a test frontend project designed to help users track their diet.
 ## Screenshots
 
 ![Screenshot 2024-03-06 002210](https://github.com/Shakil171208/Fontend-Test-SoftLab-IT/assets/86729663/24a668d8-2327-49e3-928e-bd88bf7a7d9d)
+
+![Fontend Test page-2](https://github.com/Shakil171208/Frontend-Test-SoftLab-IT/assets/86729663/54691bc4-fc37-417b-a74e-424827defb03)

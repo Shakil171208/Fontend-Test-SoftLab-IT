@@ -115,13 +115,17 @@ body {
 
   .progress img {
     margin-right: 195px;
-    width: 95px;
-    height: 95px;
+    width: 50px;
+    height: 50px;
+    padding: 15px;;
+    border-radius: 100px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #23233C;
 }
 
 .text {
     text-align: center;
-    margin-top: 5px;
+    margin-top: 15px;
     margin-bottom: 30px;
     font-size: 22px;
 }
